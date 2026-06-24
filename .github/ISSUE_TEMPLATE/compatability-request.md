@@ -2,7 +2,7 @@
 name: Compatability Request
 about: Suggest a mod to add compatability with!
 title: "[ Compatability ]"
-labels: ''
+labels: Compatability
 assignees: ''
 
 ---

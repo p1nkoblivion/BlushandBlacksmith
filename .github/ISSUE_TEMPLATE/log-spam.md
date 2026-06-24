@@ -2,7 +2,7 @@
 name: Log Spam
 about: Notice of any errors / spam in the logs
 title: "[ Log Spam ]"
-labels: ''
+labels: Log Spam
 assignees: ''
 
 ---
